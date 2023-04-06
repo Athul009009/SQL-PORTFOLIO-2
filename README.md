@@ -2,11 +2,11 @@
 SET OF SQL QUERY THAT TAKE MEANINGFUL INSIGHTS FROM THE GIVEN DATA
 
 
-                                             ALL THE FILES THAT IS USED IN THIS PROJECT IS PROVIDED IN THIS REPO 
+                                         ALL THE FILES THAT IS USED IN THIS PROJECT IS PROVIDED IN THIS REPO 
                                                    
                                                    
                                                    
-                                                   THIS THE BASIC CONNECTIONS BETWEEN THE DATA 👇 
+                                             THIS THE BASIC CONNECTIONS BETWEEN THE DATA 👇 
 
 <img width="594" alt="schema_diagram" src="https://user-images.githubusercontent.com/97147543/230306369-a64cdeaa-3568-4c81-8d6f-1c569f8b5bda.png">
 
